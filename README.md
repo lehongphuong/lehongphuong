@@ -39,12 +39,7 @@
 | 🎥 | Real-time | Video meeting & streaming with WebRTC / mediasoup |
 | 🤖 | AI | Chatbots, AI assistants and automation for business workflows |
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lehongphuong&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=1fa2ff&icon_color=1fa2ff&text_color=8b949e&bg_color=00000000" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lehongphuong&layout=compact&hide_border=true&title_color=1fa2ff&text_color=8b949e&bg_color=00000000" alt="top languages" />
-</p>
+## GitHub activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lehongphuong&hide_border=true&background=00000000&ring=1fa2ff&fire=ff6b35&currStreakLabel=1fa2ff&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="streak" />
